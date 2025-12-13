@@ -10,3 +10,4 @@ C:\Projects-Study\Projects\Play.Common\src\Play.Common\obj\Debug\net10.0\Play.Co
 C:\Projects-Study\Projects\Play.Common\src\Play.Common\obj\Debug\net10.0\refint\Play.Common.dll
 C:\Projects-Study\Projects\Play.Common\src\Play.Common\obj\Debug\net10.0\Play.Common.pdb
 C:\Projects-Study\Projects\Play.Common\src\Play.Common\obj\Debug\net10.0\ref\Play.Common.dll
+C:\Projects-Study\Projects\Play.Common\src\Play.Common\obj\Debug\net10.0\Play.Common.sourcelink.json
